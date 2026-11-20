@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1791537702504,
+    "ngoName": "water life",
+    "type": "Equipment",
+    "item": "bench",
+    "quantity": "10",
+    "amount": "50000",
+    "description": "gfsyukhgf",
+    "status": "Active",
+    "date": "2026-10-09T09:21:42.504Z"
+  },
+  {
+    "id": 1791539113274,
+    "ngoName": "hii",
+    "type": "Equipment",
+    "item": "bench",
+    "quantity": "77",
+    "amount": "5990",
+    "description": "hdgdjdidk",
+    "status": "Active",
+    "date": "2026-10-09T09:45:13.274Z"
+  },
+  {
+    "id": "req-hhf-medical",
+    "ngoId": "ngo-helping-hand",
+    "ngoName": "Helping Hand Foundation",
+    "type": "Money",
+    "item": "Learning kits and school supplies",
+    "quantity": 100,
+    "fulfilledQuantity": 35,
+    "amount": 50000,
+    "fulfilledAmount": 17500,
+    "description": "Support school materials and learning kits for children.",
+    "status": "Active",
+    "date": "2026-10-10T17:36:21.447Z"
+  },
+  {
+    "id": "req-hope-food",
+    "ngoId": "ngo-hope-for-all",
+    "ngoName": "Hope for All",
+    "type": "Supplies",
+    "item": "Family food kits",
+    "quantity": 100,
+    "fulfilledQuantity": 42,
+    "amount": 30000,
+    "fulfilledAmount": 12600,
+    "description": "Food kits for families who need short-term support.",
+    "status": "Active",
+    "date": "2026-10-10T17:36:21.447Z"
+  },
+  {
+    "id": "req-bright-books",
+    "ngoId": "ngo-bright-future",
+    "ngoName": "Bright Future Initiative",
+    "type": "Supplies",
+    "item": "School books",
+    "quantity": 100,
+    "fulfilledQuantity": 60,
+    "amount": 20000,
+    "fulfilledAmount": 12000,
+    "description": "Books and learning resources for students.",
+    "status": "Active",
+    "date": "2026-10-10T17:36:21.447Z"
+  },
+  {
+    "id": "164accff-9448-42ae-b8d8-b6c520b2d968",
+    "ngoId": "ngo-8f5ecaec-5fab-41bb-8bae-5d06d761ba20",
+    "ngoName": "Street Life",
+    "type": "Equipment",
+    "item": "food",
+    "quantity": 5,
+    "fulfilledQuantity": 0,
+    "amount": 50000,
+    "fulfilledAmount": 0,
+    "description": "",
+    "status": "Active",
+    "date": "2026-10-13T10:35:18.915Z"
+  }
+]
