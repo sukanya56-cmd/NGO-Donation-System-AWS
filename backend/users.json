@@ -1,0 +1,44 @@
+[
+  {
+    "id": "8f5ecaec-5fab-41bb-8bae-5d06d761ba20",
+    "name": "Street Life",
+    "email": "sukanyan526@gmail.com",
+    "passwordHash": "b9c19cf48f5368f9bb6b061b2419cc20:e43406d4bd74104efb6a5940db474b89e68e7857bcc0f93e85280544cf1c919b9e1ab09f5154ca28aa0c3a0798ce0bc7589120165f0c36027bc7058f8a24a813",
+    "role": "ngo",
+    "profile": {
+      "organizationName": "Street Life",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "cause": "animals",
+      "category": "Animal Welfare",
+      "description": "save lives",
+      "mission": "",
+      "programs": [
+        "food provision",
+        "shelter for dogs"
+      ],
+      "image": ""
+    },
+    "createdAt": "2026-10-10T18:35:14.036Z",
+    "verified": true,
+    "status": "active"
+  },
+  {
+    "id": "bddee1c2-770e-40cb-801f-00824b1489e2",
+    "name": "Sukanya Nayak",
+    "email": "sujatanayak155@gmail.com",
+    "passwordHash": "17bb7a63a52f9bcf00bd1aecf94193ed:ba1c087bd91a3a7c3eeecb24ecc66ddd3ca434b714180999b7fb1deec5d70bdb50552cc60af3718153f3e5b8dd8aca25cbb593ac5f9bb84b4017fa1d449c3001",
+    "role": "donor",
+    "profile": {
+      "occupation": "student",
+      "livelihood": "student and freelancer",
+      "city": "Rourkela",
+      "state": "Odisha",
+      "interests": "education",
+      "donationRange": "1000-5000"
+    },
+    "createdAt": "2026-10-10T18:37:38.057Z",
+    "verified": true,
+    "status": "active"
+  }
+]
